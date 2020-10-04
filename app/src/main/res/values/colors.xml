@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <!--Color pricipal ligth-->
+    <color name="colorLigthPrimary">#B3E5FC</color>
+
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#FF5252</color>
+    <!--Color del texto-->
+    <color name="colorText">#FFFFFF</color>
+    <!--Color pricipal del texto-->
+    <color name="colorPrimaryText">#212121</color>
+    <!--Color secundario del texto-->
+    <color name="colorSecondaryText">#757575</color>
+</resources>
