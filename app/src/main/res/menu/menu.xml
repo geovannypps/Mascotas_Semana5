@@ -8,9 +8,17 @@
         app:showAsAction="always"
         android:icon="@drawable/icons8_star_26">
     </item>
+
+        <item
+        android:id="@+id/mContact"
+        android:title="Contacto"
+        android:orderInCategory="100">
+
+    </item>
+
     <item
         android:id="@+id/mAbout"
-        android:title="Acerca"
+        android:title="Acerca De"
         android:orderInCategory="101">
     </item>
 </menu>

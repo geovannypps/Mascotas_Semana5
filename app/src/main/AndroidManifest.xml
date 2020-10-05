@@ -24,6 +24,34 @@
                 android:value=".MainActivity">
                 </meta-data>
         </activity>
+
+        <activity android:name=".segundoActivity"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"
+                >
+                </meta-data>
+        </activity>
+
+        <activity android:name=".ActivityAcercaDe"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"
+                >
+            </meta-data>
+        </activity>
+
+        <activity android:name=".ActivityContacto"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"
+                >
+            </meta-data>
+        </activity>
+
     </application>
 
 </manifest>

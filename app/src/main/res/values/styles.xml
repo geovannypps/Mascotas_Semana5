@@ -7,4 +7,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="Theme.MyApp" parent="Theme.MaterialComponents"></style>
+
+    <style name="MyButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">#ffff</item>
+        <item name="colorButtonNormal">#ffff</item>
+
+    </style>
+
 </resources>
